@@ -48,8 +48,14 @@
 		  <groupId>com.singleList</groupId>
 		  <artifactId>SingleList</artifactId>
 		  <version>0.0.1-SNAPSHOT</version>
-		</dependency>	
-	</dependencies>
+		</dependency>
+        <dependency>
+            <groupId>commons-io</groupId>
+            <artifactId>commons-io</artifactId>
+            <version>2.5</version>
+            <scope>test</scope>
+        </dependency>
+    </dependencies>
 
 
   <build>
