@@ -1,7 +1,18 @@
 # Verificación y Validación del Software 2021
-GRUPO IWT-41 Grupo 2
+GRUPO IWT-41 - 02
+
+- Larios Susín, Sandra
+- Martín Díaz, Víctor
+- Martín Fernández, Daniel
+- Petitdemange, Louis
+- Seoane Alfonso, Álvaro
+- Tan-Giudici, Line
 
 ## Instrucciones para utilizar este proyecto
+
+Para ejecutar los test:
+
+**mvn clean test**
 
 * Cada alumno debe crearse un usuario de Github
 * Un miembro del grupo debe hacer fork a este proyecto y añadir al repositorio forkeado a sus compañeros de grupo y al profesor como colaboradores.
